@@ -25,21 +25,6 @@ Project Objectives
 9. Compare BMI, WHtR, and WHR as health indicators.
 
 ---------------------------------------------------------
-Project Structure
----------------------------------------------------------
-Mini-Project/
-│
-├── data/                      (optional) raw CSV files
-│   ├── nhanes_adult_male_bmx_2020.csv
-│   ├── nhanes_adult_female_bmx_2020.csv
-│
-├── notebooks/
-│   └── Minor_Project.ipynb   (main Jupyter Notebook)
-│
-├── README.txt                 (project description)
-└── requirements.txt           (Python libraries required)
-
----------------------------------------------------------
 Libraries Used
 ---------------------------------------------------------
 - numpy

@@ -35,22 +35,7 @@ Libraries Used
 - jupyter
 
 ---------------------------------------------------------
-How to Run
----------------------------------------------------------
-1. Clone this repository
-   git clone https://github.com/<your-username>/nhanes-body-measurements-analysis.git
-
-2. Navigate into the folder
-   cd nhanes-body-measurements-analysis
-
-3. Install the required libraries
-   pip install -r requirements.txt
-
-4. Open the Jupyter Notebook
-   jupyter notebook notebooks/Corizo_Mini_Project.ipynb
-
----------------------------------------------------------
-Example Outputs
+Outputs
 ---------------------------------------------------------
 - Histograms & boxplots comparing male vs. female weights
 - Scatterplot matrix showing correlations between body measurements

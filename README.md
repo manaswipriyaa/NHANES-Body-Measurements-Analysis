@@ -1,9 +1,5 @@
 # NHANES-Body-Measurements-Analysis
 
-==================================
-NHANES Body Measurements Analysis 
-==================================
-
 Project Overview
 ----------------
 This project is part of my Corizo Data Science Minor Project. 

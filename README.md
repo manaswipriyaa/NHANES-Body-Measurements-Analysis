@@ -49,3 +49,9 @@ Learning Outcomes
 - Application of descriptive statistics (mean, std, skewness, kurtosis)
 - Use of health indicators: BMI, Waist-to-Height Ratio, Waist-to-Hip Ratio
 - Writing a structured and professional data analysis report
+
+---
+
+## Author
+**Maddu Manaswi Priya**  
+**September 2025**

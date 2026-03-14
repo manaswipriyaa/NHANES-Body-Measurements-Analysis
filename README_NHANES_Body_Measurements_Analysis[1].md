@@ -1,12 +1,12 @@
 # NHANES Body Measurements Analysis
 
-An exploratory data analysis project on the NHANES (National Health and Nutrition Examination Survey) dataset — examining relationships between body measurements, health indicators, and demographic factors across a large population sample.
+An exploratory data analysis project on the NHANES (National Health and Nutrition Examination Survey) dataset - examining relationships between body measurements, health indicators, and demographic factors across a large population sample.
 
 ---
 
 ## About the Dataset
 
-**Source:** NHANES — National Health and Nutrition Examination Survey (CDC)
+**Source:** NHANES - National Health and Nutrition Examination Survey (CDC)
 **Type:** Public health survey data collected by the US Centers for Disease Control and Prevention
 **Size:** Thousands of respondents across multiple survey cycles
 **Features:** Body measurements (height, weight, BMI, waist circumference), blood pressure, age, gender, ethnicity, activity levels
@@ -98,5 +98,5 @@ jupyter notebook notebooks/nhanes_analysis.ipynb
 ## Author
 
 **Manaswi Priya Maddu**
-B.Tech — AI & Machine Learning | Acharya Nagarjuna University
+B.Tech - AI & Machine Learning | Acharya Nagarjuna University
 [LinkedIn](https://linkedin.com/in/manaswi-priya-2126481b8) | [GitHub](https://github.com/manaswipriyaa)
